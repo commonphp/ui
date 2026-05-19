@@ -1,0 +1,1 @@
+<section><?= $e($title) ?></section>

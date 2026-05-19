@@ -35,6 +35,7 @@ Missing templates, invalid components, renderer failures, and driver errors shou
 
 ## Documentation
 
+- [Documentation index](docs/index.md)
 - [Usage](docs/usage.md)
 - [Testing](TESTING.md)
 - [Contributing](CONTRIBUTING.md)
